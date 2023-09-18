@@ -14,15 +14,14 @@
                 Computer Science Student, Back-End, Front-End Problem Solver, Freelancer.<br><br>
                 I have knoledge in .NET and Microsoft SQL Server, Node.js, React, Containers, RESTful API, Python Programming, SQL, Django ORM, Application Security and Android development. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
                 I am passionate about learning .NET, all Back-End Technologies, Web 3, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated.
             </strong>
         </p>
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
+            <li>🎯 <b>I’m currently focusing on Software and web development.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="[https://flowcv.io/resume/feedback/lMhKFXfgJjf8](https://drive.google.com/file/d/1k50bNMRa5qYULM0muvsBqhCX8Y36RyaT/view?usp=sharing)">LINK TO MY RESUME</a>.</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/josuecross/josuecross/issues">Here</a>.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
         </ul>
     </div>
 <!--- stats & Trophy (start) -->
