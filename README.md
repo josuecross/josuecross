@@ -11,7 +11,7 @@
         <br>
         <p>
             <strong>
-                Computer Science Student, Back-End, Front-End Problem Solver, Freelancer.<br><br>
+                Computer Science Student, Back-End, Front-End, Problem Solver, Freelancer.<br><br>
                 I have knowledge  in .NET and Microsoft SQL Server, Node.js, React, Containers, RESTful API, Python Programming, SQL, Django ORM, Application Security and Android development. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
                 I am passionate about learning .NET, all Back-End Technologies, Web 3, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated.
