@@ -21,6 +21,7 @@
             <li>🌱 <b>I’m currently learning</b>: Cloud technologies.</li>
             <li>🎯 <b>I’m currently focusing on Software and web development.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1k50bNMRa5qYULM0muvsBqhCX8Y36RyaT/view?usp=sharing">LINK TO MY RESUME</a>.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://josuecross.github.io/">LINK TO MY PORTFOLIO</a>.</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/josuecross/josuecross/issues">Here</a>.</li>
         </ul>
     </div>
