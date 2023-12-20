@@ -11,7 +11,7 @@
         <br>
         <p>
             <strong>
-                Graduated from a Associate's degree in Computer Science, and an advanced student of Bachelor's Degree in Computer Engineering. Knowledge in web development frameworks such as Node.js, React.js, Express.js, Asp.Net; MongoDB, SQL Server, PostgreSQL databases; and C#, Java, HTML, CSS, and JavaScript languages which I have used to make fully functional web applications..<br><br>
+                Graduated from a Associate's degree in Computer Science, and advanced student of Bachelor's Degree in Computer Engineering. Knowledge in web development frameworks such as Node.js, React.js, Express.js, Asp.Net; MongoDB, SQL Server, PostgreSQL databases; and C#, Java, HTML, CSS, and JavaScript languages which I have used to make fully functional web applications..<br><br>
                 Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming and Problem Solving skills.<br><br>
                 I am passionate about learning .NET, all Back-End Technologies, Web 3, Cloud Computing, and DevOps.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated.
