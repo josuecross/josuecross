@@ -1,104 +1,50 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-</div>
+# Josue David Cruz Lopez
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=50&lines=Hi+there+I'm+Josue;DevOps+Engineer;Cloud+%26+Infrastructure;Backend+.NET+Developer;Linux+%7C+Networking;Problem+Solver" alt="Headline" />
-</div>
+DevOps and Backend Engineer with experience in Linux systems, cloud fundamentals, backend development, infrastructure troubleshooting, and scripting. I focus on building stable, maintainable, and efficient solutions that support reliable environments at scale. My work spans backend services in .NET, Python and Bash tooling, system-level problem solving, and foundational DevOps practices.
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/josue-david-c/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin" alt="LinkedIn" />
-    </a>
-</div>
+I value clean engineering principles, operational excellence, and continuous learning.
 
----
+## Areas of Expertise
 
-## About Me
-
-I am a DevOps and Infrastructure Engineer with hands-on experience in Linux systems, backend development, cloud fundamentals, and infrastructure support at scale. I enjoy working on reliable systems, troubleshooting complex issues, and building tools that improve operational efficiency.
-
-My background includes backend development with C#/.NET, scripting with Python and Bash, Linux administration, cloud services (AWS), and distributed system fundamentals. I value clean design, maintainable code, and efficient problem-solving.
-
-I focus on engineering solutions that are stable, predictable, and scalable, following industry best practices and contributing to high-quality technical environments.
-
----
-
-## What I Work With
-
-- Backend development (.NET, C#, APIs, EF Core)
-- Linux system administration  
-- AWS: EC2, VPC, IAM, cloud fundamentals  
+- Linux administration and troubleshooting  
+- Backend development: .NET, C#, REST APIs  
 - Python and Bash scripting  
-- Networking: TCP/IP, DNS, SSH, firewalls  
-- CI/CD foundations  
-- SQL Server, PostgreSQL, SQLite  
-- Containers and virtualization basics  
-- Git, GitHub, technical documentation  
+- Cloud fundamentals (AWS: EC2, VPC, IAM)  
+- Networking: TCP/IP, DNS, SSH, routing basics  
+- CI/CD concepts and version control  
+- Databases: SQL Server, PostgreSQL, SQLite  
+- Containers and virtualization fundamentals  
 
----
+## Professional Focus
 
-## Currently Focused On
+I am currently focusing on:
+- Cloud engineering and scalable systems  
+- Infrastructure reliability and observability  
+- Terraform, Kubernetes, and cloud-native patterns  
+- Expanding backend engineering capabilities in .NET  
+- Designing tools and processes that reduce operational complexity  
 
-- Strengthening my DevOps / Cloud engineering path  
-- Improving infrastructure reliability skills (monitoring, observability, networking)  
-- Expanding knowledge on Terraform, Kubernetes, and cloud-native patterns  
-- Building clean, maintainable backend services  
+## Selected Work
 
----
+### AutoOps Resolver – Web Platform (C#/.NET 8)
+A web-based operations system that supports diagnostics, power control, rebuild workflows, and host validation functionality. Designed for maintainability and reliability.
 
-## GitHub Stats
+### Docinade Academic Platform (.NET)
+Full-stack system for academic process management, built using .NET, Razor Pages, and SQL Server.
 
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+### Infrastructure Toolkit (Python/Bash)
+Command-line tools for network analysis, metadata validation, host checks, and environment visibility.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=josuecross&theme=dark&show_icons=true&count_private=true" />
-<br><br>
-<img align="center" title="GitHub Streak" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=josuecross&theme=dark&hide_border=false" />
+## Technical Approach
 
-</td>
-<td width="50%" align="center">
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=josuecross&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-</td>
-</tr>
-</table>
-</p>
-
----
-
-## Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,py,dotnet,cs,aws,docker,nginx,react,html,css,js,nodejs,postgres,mysql,sqlite,vscode&perline=12" />
-</p>
-
----
-
-## Featured Work
-
-### Backend & Systems Engineering
-- **AutoOps Resolver – Web (.NET 8)**  
-  Internal platform for standardized workflows, diagnostics, and operational tasks.
-
-- **Docinade Academic Platform (.NET)**  
-  Complete backend system for academic process management.
-
-### Infrastructure & Cloud
-- **Infrastructure Toolkit (Python/Bash)**  
-  Tools for diagnostics, network checks, metadata validation, and system visibility.
-
-### Supporting Tools
-- Scripts, utilities, and backend modules used across multiple internal work environments.
-
----
+I prioritize:
+- Clear architectures  
+- Maintainable codebases  
+- Accurate diagnostics and validation  
+- System reliability and repeatability  
+- Practical, measurable engineering improvements  
 
 ## Contact
 
-**Josue David Cruz Lopez**  
-Email: **cruzlopez.josuedavid96@gmail.com**  
-LinkedIn: **https://linkedin.com/in/josue-david-c**
-
+Email: cruzlopez.josuedavid96@gmail.com  
+LinkedIn: https://linkedin.com/in/josue-david-c
