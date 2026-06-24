@@ -1,6 +1,6 @@
 # Josue David Cruz Lopez
 
-DevOps and Backend Engineer with experience in Linux systems, cloud fundamentals, backend development, infrastructure troubleshooting, and scripting. I focus on building stable, maintainable, and efficient solutions that support reliable environments at scale. My work spans backend services in .NET, Python and Bash tooling, system-level problem solving, and foundational DevOps practices.
+Automation Engineer with experience in Linux systems, cloud fundamentals, backend development, infrastructure troubleshooting, and scripting. I focus on building stable, maintainable, and efficient solutions that support reliable environments at scale. My work spans backend services in .NET, Python and Bash tooling, system-level problem solving, and foundational DevOps practices.
 
 I value clean engineering principles, operational excellence, and continuous learning.
 
