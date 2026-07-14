@@ -7,21 +7,19 @@ I value clean engineering principles, operational excellence, and continuous lea
 ## Areas of Expertise
 
 - Linux administration and troubleshooting  
-- Backend development: .NET, C#, REST APIs  
+- .NET, C#, REST APIs  
 - Python and Bash scripting  
-- Cloud fundamentals (AWS: EC2, VPC, IAM)  
+- Cloud (AWS and Azure)  
 - Networking: TCP/IP, DNS, SSH, routing basics  
 - CI/CD concepts and version control  
 - Databases: SQL Server, PostgreSQL, SQLite  
-- Containers and virtualization fundamentals  
 
 ## Professional Focus
 
 I am currently focusing on:
 - Cloud engineering and scalable systems  
 - Infrastructure reliability and observability  
-- Terraform, Kubernetes, and cloud-native patterns  
-- Expanding backend engineering capabilities in .NET  
+- Terraform, Kubernetes, and cloud-native patterns 
 - Designing tools and processes that reduce operational complexity  
 
 ## Selected Work
