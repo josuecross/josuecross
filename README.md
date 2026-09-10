@@ -20,10 +20,10 @@ Human-in-the-loop AI application that combines semantic model reasoning with det
 
 Bachelor's graduation application with separated frontend, backend/data-access, and shared-model projects. Demonstrates database-backed business workflows, API endpoints, authentication/authorization, validation, and multi-layer application debugging.
 
-### [DevOps Capstone](https://github.com/josuecross/devops-capstone-project) — CI/CD & Container Delivery
-**Python · Flask · PostgreSQL · GitHub Actions · Docker · Kubernetes · Tekton**
+### [AutoOps Resolver — .NET](https://github.com/josuecross/autoops-resolver-dotnet) — Infrastructure Automation Platform
+**C# · .NET 8 · ASP.NET Core · BackgroundService · Channels · MSTest**
 
-IBM DevOps capstone implementation with REST API development, database-backed testing, containerized CI, PostgreSQL health checks, Docker packaging, Kubernetes manifests, and continuous-delivery pipeline tasks.
+Clean-room infrastructure-automation portfolio application with constrained REST APIs, asynchronous job processing, bounded queues, target allowlisting, testable execution adapters, synthetic Redfish-style evidence, and explicit security boundaries. Built with fresh public history and no employer/customer infrastructure data.
 
 ### [AutoOps Resolver — PowerShell](https://github.com/josuecross/autoops-resolver-powershell) — Infrastructure Automation
 **PowerShell · Redfish · BMC · DNS/SSH · Server Diagnostics**
@@ -35,13 +35,14 @@ Operator-focused automation for repeatable infrastructure diagnostics and recove
 
 Reusable utilities for host reachability, DNS consistency, server metadata validation, management-plane operations, subprocess orchestration, and structured infrastructure diagnostics.
 
-### [Reliability & Troubleshooting Labs](https://github.com/josuecross/killercoda-sre-oncall-triage) — Reproducible Technical Labs
-**Kubernetes · APIs · Linux · Bash · Troubleshooting · Recovery Validation**
+### [DevOps Capstone](https://github.com/josuecross/devops-capstone-project) — CI/CD & Container Delivery
+**Python · Flask · PostgreSQL · GitHub Actions · Docker · Kubernetes · Tekton**
 
-Clean-room interactive scenarios that create reproducible application/platform failures and guide evidence-driven investigation, controlled remediation, and recovery verification.
+IBM DevOps capstone implementation with REST API development, database-backed testing, containerized CI, PostgreSQL health checks, Docker packaging, Kubernetes manifests, and continuous-delivery pipeline tasks.
 
 ## Additional Public Work
 
+- [Reliability & Troubleshooting Labs](https://github.com/josuecross/killercoda-sre-oncall-triage) — Kubernetes, APIs, Linux, Bash, reproducible troubleshooting and recovery validation
 - [Doctor Appointment Platform](https://github.com/josuecross/doctor-appointmen-website) — React, Node.js, Express, MongoDB, JWT
 - [Django Course Management Models](https://github.com/josuecross/school_adminsite_django) — Django ORM, PostgreSQL, migrations, relational modeling
 
@@ -51,7 +52,7 @@ Clean-room interactive scenarios that create reproducible application/platform f
 **AI & Backend:** FastAPI, Pydantic, external AI APIs, ASP.NET Core, Node/Express, Django, REST, JSON  
 **Data:** SQL Server, PostgreSQL, SQLite/FTS5, MongoDB  
 **Cloud & Infrastructure:** AWS, EKS/Kubernetes, Terraform, Linux, Windows, Docker, Redfish/BMC, TCP/IP, DNS  
-**Delivery & Quality:** Git/GitHub, GitHub Actions, CI/CD, pytest, regression/evaluation workflows, API testing  
+**Delivery & Quality:** Git/GitHub, GitHub Actions, CI/CD, pytest, MSTest, regression/evaluation workflows, API testing  
 **Observability:** Grafana, Kibana/Elastic, logs, service-health validation, runbooks
 
 ## Professional Context
