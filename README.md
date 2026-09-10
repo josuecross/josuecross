@@ -1,97 +1,69 @@
 # Josue David Cruz Lopez
 
-**Software, Automation & Cloud Engineer | Python • C#/.NET • AWS • Applied AI • APIs • Linux**
+**Software, Applied AI, Automation & Cloud Engineering**
 
-I’m a Costa Rica–based engineer with enterprise experience at Intel and Zuora and a hands-on portfolio across **software development, infrastructure automation, cloud operations, APIs, databases, testing, and applied AI**.
+I am a Computer Science graduate and Software Engineering master's student with enterprise technical experience at Intel and Zuora and hands-on projects across **Python, C#/.NET, JavaScript, APIs, AI-enabled applications, automation, Linux, AWS/cloud, databases, testing, and CI/CD**.
 
-My strongest work sits at the intersection of software and operations: understanding how a technical workflow behaves, locating failures across application / API / data / infrastructure boundaries, then improving the workflow through code, automation, validation, or documentation.
+My work tends to sit at the boundary between software and operations: understanding how a workflow behaves, tracing failures across components, building practical tooling, and validating that the result actually works.
 
-I hold a **B.Sc. in Computer Science** and am currently pursuing an **M.Sc. in Software Engineering** with emphasis in software architecture and design.
+## Current Technical Focus
 
-## Current Focus
-
-I’m particularly interested in roles involving:
-
-- applied AI and AI-enabled software;
-- Python backend and API development;
-- automation engineering;
-- AWS / cloud engineering;
-- DevOps and platform tooling;
-- QA / API validation and technical evaluation;
-- application and systems engineering.
+- **Applied AI & AI-assisted engineering** — structured outputs, deterministic verification, retrieval, evaluation, agentic development workflows
+- **Python & backend development** — FastAPI, REST APIs, automation, structured data, SQLite/PostgreSQL
+- **Automation & DevOps** — PowerShell, Python, Bash, CI/CD, Docker, infrastructure tooling
+- **Cloud & platform engineering** — AWS/EKS context, Linux, networking, observability, Terraform concepts
+- **Software engineering** — C#/.NET 8, ASP.NET Core, JavaScript/React/Node, relational applications, testing
 
 ## Selected Public Projects
 
 ### [IC Copilot V3](https://github.com/josuecross/ic-copilot-v3)
-**Python • FastAPI • Pydantic • OpenAI API • pytest • SQLite**
+**Python · FastAPI · AI APIs · Structured Outputs · Evaluation**
 
-Human-in-the-loop AI decision-support application that combines one semantic model call with deterministic verification, target validation, safety checks, fallback behavior, and regression / replay evaluation.
-
-**Highlights:** structured AI outputs, deterministic policy gates, adversarial evaluation, local web + CLI interfaces, and explicit human-control boundaries.
-
----
-
-### [AutoOps Resolver — PowerShell Edition](https://github.com/josuecross/autoops-resolver-powershell)
-**PowerShell • Redfish • BMC • DNS • SSH • PXE/Cobbler • Infrastructure Automation**
-
-Operator-focused automation for repeatable server diagnostics and controlled recovery workflows. The project separates target validation, connectivity checks, management-plane evidence, recovery actions, and post-action validation.
-
-**Highlights:** infrastructure troubleshooting, Redfish/BMC workflows, defensive automation, modular PowerShell, and operator-oriented results.
-
----
-
-### [Infrastructure Automation Toolkit](https://github.com/josuecross/infra-automation-toolkit)
-**Python • Bash • Linux • Redfish • Networking • Systems Automation**
-
-Reusable Python and Bash utilities for host diagnostics, management-interface workflows, metadata checks, and infrastructure recovery operations.
-
-**Highlights:** subprocess orchestration, structured diagnostics, Linux/network troubleshooting, reusable automation components, and validation of intended system state.
-
----
+Human-in-the-loop AI decision-support application that combines a semantic model call with deterministic checks for grounding, valid targets, output structure, stale context, and safety. Includes replay, regression, adversarial, and acceptance evaluation workflows.
 
 ### [Docinade — Academic Management Platform](https://github.com/josuecross/bachelors-graduation-project)
-**C# • ASP.NET Core/.NET 8 • SQL Server • Entity Framework Core • REST APIs • JavaScript**
+**C# · ASP.NET Core .NET 8 · REST APIs · SQL Server · EF Core**
 
-Bachelor’s graduation application with separate frontend, backend/data-access, and shared-model projects. It models academic workflows across students, courses, professors, internships, research/thesis work, institutions, and catalogs.
+Graduation application with separate frontend, backend/data-access, and shared-model projects. Demonstrates database-backed business workflows, API endpoints, authentication/authorization, validation, and multi-layer application debugging.
 
-**Highlights:** full application architecture, relational persistence, API/backend development, authentication foundations, and debugging across UI → API → database boundaries.
+### [AutoOps Resolver — PowerShell](https://github.com/josuecross/autoops-resolver-powershell)
+**PowerShell · Infrastructure Automation · Redfish · Server Diagnostics**
 
----
+Operator-focused automation for repeatable infrastructure diagnostics and recovery workflows, including connectivity, DNS, management-plane checks, Redfish/BMC operations, PXE/rebuild workflows, and structured operational output.
 
-### [Kubernetes / SRE Troubleshooting Labs](https://github.com/josuecross/killercoda-sre-oncall-triage)
-**Kubernetes • APIs • Async Workers • Deployment Validation • Technical Documentation**
+### [Infrastructure Automation Toolkit](https://github.com/josuecross/infra-automation-toolkit)
+**Python · Bash · Linux · Networking · Redfish**
 
-Guided troubleshooting scenarios that model failures such as API degradation, CrashLoopBackOff, worker backlog, and deployment mismatches using reproducible starting conditions and explicit recovery checks.
+Reusable infrastructure utilities for host reachability, DNS consistency, server metadata validation, management-plane operations, and structured diagnostics.
 
-## Technical Stack
+### [DevOps Capstone — CI/CD, Containers & Kubernetes](https://github.com/josuecross/devops-capstone-project)
+**Python · Flask · PostgreSQL · GitHub Actions · Docker · Kubernetes · Tekton**
 
-### Languages & Application Development
-- Python
-- C# / .NET 8 / ASP.NET Core
-- JavaScript / Node.js / React
-- PowerShell
-- Bash
-- SQL
+IBM DevOps capstone implementation demonstrating REST API development, database-backed tests, containerized CI, dependency health checks, Docker packaging, Kubernetes manifests, and continuous-delivery pipeline tasks.
 
-### Cloud, Infrastructure & Delivery
-- AWS / EKS
-- Linux / UNIX / Windows
-- Terraform
-- Docker / Kubernetes
-- Git / GitHub
-- GitHub Actions / CI/CD
-- Grafana / Kibana
-- Redfish / BMC / PXE-Cobbler workflows
+### [Interactive Reliability & Troubleshooting Labs](https://github.com/josuecross/killercoda-sre-oncall-triage)
+**Kubernetes · APIs · Linux · Troubleshooting · Technical Documentation**
 
-### APIs, Data & AI
-- REST APIs / JSON / HTTP
-- FastAPI
-- SQL Server / PostgreSQL / SQLite
-- MongoDB
-- AI API integration
-- structured outputs
-- deterministic verification
-- regression and replay evaluation
+Clean-room interactive labs that create reproducible application/platform failures and guide investigation through evidence, controlled remediation, and recovery validation.
+
+### [Doctor Appointment Platform](https://github.com/josuecross/doctor-appointmen-website)
+**React · Node.js · Express · MongoDB · JWT**
+
+Full-stack application connecting React UI workflows with REST-style Express APIs, MongoDB persistence, JWT authentication, role-aware authorization, doctor/user profiles, reviews, and appointment data.
+
+### [Django Course Management Models](https://github.com/josuecross/school_adminsite_django)
+**Python · Django · PostgreSQL · ORM · Relational Modeling**
+
+Django project focused on ORM relationships, migrations, admin workflows, and a course/enrollment data model.
+
+## Technical Foundation
+
+**Languages:** Python, C#, PowerShell, Bash, JavaScript, SQL  
+**Backend & APIs:** FastAPI, ASP.NET Core, Node/Express, Django, REST, JSON  
+**Data:** SQL Server, PostgreSQL, SQLite/FTS5, MongoDB  
+**Cloud / Infrastructure:** AWS, EKS/Kubernetes, Linux, Windows, Terraform, Redfish/BMC, networking  
+**Delivery & Quality:** Git/GitHub, GitHub Actions, Docker, pytest, regression testing, API validation, CI/CD  
+**Observability / Operations:** Grafana, Kibana/Elastic, production troubleshooting, runbooks and recovery validation
 
 ## Certifications
 
@@ -100,32 +72,15 @@ Guided troubleshooting scenarios that model failures such as API degradation, Cr
 - HashiCorp Certified: Terraform Associate
 - Microsoft Certified: Azure Fundamentals
 - LPIC-2
-- LPI Linux Essentials
 - IBM DevOps and Software Engineering Professional Certificate
 
-## Professional Background
+## Background
 
-### Intel Corporation — IT Infrastructure Support Specialist / Student Worker
-Enterprise Windows/Linux/UNIX support, infrastructure troubleshooting, scripting, networking, storage, permissions, distributed compute workflows, and automation.
+My enterprise experience includes infrastructure and application support at **Intel**, where I worked across Windows/Linux/UNIX, networking, storage, permissions, compute workflows, and automation, followed by production SaaS operations at **Zuora** in an AWS/EKS environment using tools such as Grafana and Kibana.
 
-### Zuora — Site Reliability Engineer II
-Production SaaS operations in an AWS/EKS environment using observability, runbooks, service-dependency analysis, and recovery validation.
-
-## Engineering Approach
-
-I prefer to make systems understandable and testable:
-
-1. map the workflow and its boundaries;
-2. reproduce the behavior;
-3. collect evidence at the relevant layer;
-4. implement or recommend the smallest useful change;
-5. validate the actual postcondition;
-6. leave a clear result that another engineer can reproduce.
-
-That approach applies whether the problem is a backend API, an AI workflow, a database-backed application, a Linux host, or an infrastructure automation task.
+I use that operational experience in development work: failure handling, observable behavior, validation, maintainability, and the distinction between a command completing and the intended system outcome actually being restored.
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/josue-david-c](https://www.linkedin.com/in/josue-david-c/)
-- **GitHub:** [github.com/josuecross](https://github.com/josuecross)
-- **Location:** Costa Rica
+**LinkedIn:** [linkedin.com/in/josue-david-c](https://linkedin.com/in/josue-david-c)  
+**GitHub:** [github.com/josuecross](https://github.com/josuecross)
